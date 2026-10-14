@@ -26,4 +26,4 @@
 
 ## 📱 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Janjić-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabrieljanjic/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Janjić-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-janjic/)  
